@@ -55,18 +55,24 @@ img{
 
 .golden{
     height: 300px;
+    width: 18%;
+
 }
 
 .green{
     height: 300px;
+    width: 20%;
 }
 
 .black{
     height: 300px;
+    width: 20%;
+
 }
 
 .description{
     font-size: 2rem;
     margin-bottom: 30px;
 }
+
 
